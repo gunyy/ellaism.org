@@ -52,7 +52,7 @@ Ellaism это подобная на Ethereum сеть со следующими
 * [Web Wallet](https://ellaism.github.io/ellawallet)
 * [Chrome Extension Wallet](https://chrome.google.com/webstore/detail/myellawallet/bgfofdgebpphdhddggaggeafenegbjef)
 
-## Аппаратные кошельки
+## Аппаратные Кошельки
 
 * [Trezor](https://shop.trezor.io/) with [Web Wallet](https://ellaism.github.io/ellawallet)
 
