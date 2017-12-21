@@ -7,16 +7,15 @@ modified: 2017-11-21
 
 {% include base_path %}
 
-Ellaism is an Ethereum-like network. Features include:
+Ellaism это подобная на Ethereum сеть со следующими особенностями:
 
-* No pre-mine.
-* No contentious hard forks. Stability is a feature.
-* Monetary policy. 5 ELLA every block in the beginning. A reduction of 20%
-  mining rewards happens every 10 million blocks.
-* No difficulty bomb.
-* Replay protection enabled by default.
+* Нет премайна.
+* Нет постоянных хардфорков. Стабильность является приоритетной.
+* Уменьшение награты за блок на 20% через каждые 10 миллионов блоков начиная с награды 5 ELLA за блок.
+* Нет бомбы сложности.
+* Защита от атаки повторного воспроизведения включена по умолчанию.
 
-See also [Comparison of Different Ethereum Networks](/comparison/).
+Смотрите также [Comparison of Different Ethereum Networks](/comparison/).
 
 ## Information and Community
 
