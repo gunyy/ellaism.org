@@ -17,10 +17,9 @@ Ellaism это подобная на Ethereum сеть со следующими
 
 Смотрите также [Comparison of Different Ethereum Networks](/comparison/).
 
-## Information and Community
+## Информация и Сообщество
 
-Ellaism has a welcoming and strong community. Its Twitter, Discord server, forum and other
-parts are managed by different community members.
+У Ellaism приветливое и дружное сообщество. Twitter, Discord сервер, форум и другие ресурсы администрируются участниками сообщества.
 
 * [Roadmap](/roadmap/)
 * [Principles](/principles/)
@@ -32,28 +31,28 @@ parts are managed by different community members.
 * [Core Twitter](https://twitter.com/EllaismCore)
 * IRC: [#ellaism](http://webchat.freenode.net/?channels=ellaism)
 
-## Clients
+## Клиенты
 
-You might also want to follow the [installation](/install/) or
-[mining](/mining/) guide for this section.
+Вы также можете воспользоваться [installation](/install/) или
+[mining](/mining/) руководствами для этого раздела.
 
 * [Parity](https://github.com/ellaism/parity-config) (recommended)
 * [Geth](https://github.com/ellaism/go-ellaism) (beta)
 
-## Exchanges
+## Биржи
 
-See the complete exchange list at [here](/exchange/).
+Вы можете ознакомиться с полным списком бирж [здесь](/exchange/).
 
 * [Cryptopia](https://www.cryptopia.co.nz/Exchange?market=ELLA_BTC)
 * [Stocks Exchange](https://stocks.exchange/trade/ELLA/BTC)
 * [Bisq](https://bisq.network/)
 
-## Wallets
+## Кошельки
 
 * [Web Wallet](https://ellaism.github.io/ellawallet)
 * [Chrome Extension Wallet](https://chrome.google.com/webstore/detail/myellawallet/bgfofdgebpphdhddggaggeafenegbjef)
 
-## Hardware Wallets
+## Аппаратные кошельки
 
 * [Trezor](https://shop.trezor.io/) with [Web Wallet](https://ellaism.github.io/ellawallet)
 
