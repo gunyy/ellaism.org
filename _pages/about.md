@@ -56,31 +56,31 @@ Ellaism это подобная на Ethereum сеть со следующими
 
 * [Trezor](https://shop.trezor.io/) with [Web Wallet](https://ellaism.github.io/ellawallet)
 
-## Get Involved
+## Принять Участие
 
-There is no pre-mine and the coin is totally community-driven. You can find more information about how to get involved in the [ellaism/meta](https://github.com/ellaism/meta) repository and the [Discord](https://discord.gg/66Pn9jn) server. You can also [donate](/donate/) to Ellaism developers and community members to help this coin.
+Поскольку у монеты нет премайна, ее развитием занимается сообщество. Вы можете получить больше информации как присоединиться к сообществу из [ellaism/meta](https://github.com/ellaism/meta) репозитория и [Discord](https://discord.gg/66Pn9jn) сервера. Вы также можете [donate](/donate/) разработчикам Ellaism и членам сообщества чтобы помочь проекту.
 
-## Total Supply
+## Общая Эмиссия
 
-Below you will find an analysis of the total supply. The coin unit "Ella" is
-equivalent to "ETH" in Ethereum. The total supply will not exceed 280 million
-Ella. On 2027/09/15, around 50% (139 million Ella) will be mined, and on
-2050/07/20, around 90% (250 million Ella) will be mined.
+Ниже представлен анализ эмиссии монет. Тикер монеты "Ella"  The coin unit "Ella" is
+эквивалентен "ETH" для Ethereum. Общее количество монет не привысит 280 миллионов Ella.
+К 15.09.2027 около 50% (139 миллионов Ella) будут добыты, а к
+20.07.2050 будет добыто около 90% (250 миллионов Ella).
 
 ![Total supply](/images/total-supply.png)
 
 ## JSON RPC Endpoint
 
-If you are a dapp developer, you can use
-"[https://jsonrpc.ellaism.org](https://jsonrpc.ellaism.org)" as a JSON RPC
+Если вы dapp разработчик, вы можете использовать
+"[https://jsonrpc.ellaism.org](https://jsonrpc.ellaism.org)" как JSON RPC
 endpoint.
 
-## Technical Information
+## Техническая Информация
 
-* Block time: 10 seconds.
-* Coin generation: 5 Ella per block with 20% reward reduction happens every 10 million blocks.
+* Время нахождения блока: 10 секунд.
+* Генерация монет: 5 Ella за бок с уменьшением на 20% через каждые 10 миллионов блоков.
 * Network ID and chain ID is 0x40.
-* Most other parameters are the same as Ethereum.
+* Большая часть параметров такая же как у Ethereum.
 
 This is an Ethereum network as specified in the [yellow
 paper](https://ethereum.github.io/yellowpaper/paper.pdf), with
